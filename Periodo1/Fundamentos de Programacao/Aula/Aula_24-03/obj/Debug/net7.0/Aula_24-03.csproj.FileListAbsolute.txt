@@ -1,0 +1,15 @@
+D:\Rafael\FP\Aula\Aula_24-03\bin\Debug\net7.0\Aula_24-03.exe
+D:\Rafael\FP\Aula\Aula_24-03\bin\Debug\net7.0\Aula_24-03.deps.json
+D:\Rafael\FP\Aula\Aula_24-03\bin\Debug\net7.0\Aula_24-03.runtimeconfig.json
+D:\Rafael\FP\Aula\Aula_24-03\bin\Debug\net7.0\Aula_24-03.dll
+D:\Rafael\FP\Aula\Aula_24-03\bin\Debug\net7.0\Aula_24-03.pdb
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.csproj.AssemblyReference.cache
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.AssemblyInfoInputs.cache
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.AssemblyInfo.cs
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.dll
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\refint\Aula_24-03.dll
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.pdb
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\Aula_24-03.genruntimeconfig.cache
+D:\Rafael\FP\Aula\Aula_24-03\obj\Debug\net7.0\ref\Aula_24-03.dll

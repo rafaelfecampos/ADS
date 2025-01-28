@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\bin\Debug\net7.0\Exercicio_6_slide102.exe
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\bin\Debug\net7.0\Exercicio_6_slide102.deps.json
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\bin\Debug\net7.0\Exercicio_6_slide102.runtimeconfig.json
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\bin\Debug\net7.0\Exercicio_6_slide102.dll
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\bin\Debug\net7.0\Exercicio_6_slide102.pdb
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.AssemblyInfo.cs
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.dll
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\refint\Exercicio_6_slide102.dll
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.pdb
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\Exercicio_6_slide102.genruntimeconfig.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_03\Exercicio_6_slide102\obj\Debug\net7.0\ref\Exercicio_6_slide102.dll

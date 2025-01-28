@@ -1,0 +1,15 @@
+D:\Rafael\FP\Simulado\bin\Debug\net7.0\Simulado.exe
+D:\Rafael\FP\Simulado\bin\Debug\net7.0\Simulado.deps.json
+D:\Rafael\FP\Simulado\bin\Debug\net7.0\Simulado.runtimeconfig.json
+D:\Rafael\FP\Simulado\bin\Debug\net7.0\Simulado.dll
+D:\Rafael\FP\Simulado\bin\Debug\net7.0\Simulado.pdb
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.csproj.AssemblyReference.cache
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.AssemblyInfoInputs.cache
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.AssemblyInfo.cs
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.dll
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\refint\Simulado.dll
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.pdb
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\Simulado.genruntimeconfig.cache
+D:\Rafael\FP\Simulado\obj\Debug\net7.0\ref\Simulado.dll

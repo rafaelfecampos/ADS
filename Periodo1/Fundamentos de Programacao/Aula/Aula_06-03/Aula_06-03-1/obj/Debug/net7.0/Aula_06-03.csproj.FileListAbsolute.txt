@@ -1,0 +1,15 @@
+D:\FP\Aula\Aula_06-03\bin\Debug\net7.0\Aula_06-03.exe
+D:\FP\Aula\Aula_06-03\bin\Debug\net7.0\Aula_06-03.deps.json
+D:\FP\Aula\Aula_06-03\bin\Debug\net7.0\Aula_06-03.runtimeconfig.json
+D:\FP\Aula\Aula_06-03\bin\Debug\net7.0\Aula_06-03.dll
+D:\FP\Aula\Aula_06-03\bin\Debug\net7.0\Aula_06-03.pdb
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.csproj.AssemblyReference.cache
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.AssemblyInfoInputs.cache
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.AssemblyInfo.cs
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.csproj.CoreCompileInputs.cache
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.dll
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\refint\Aula_06-03.dll
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.pdb
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\Aula_06-03.genruntimeconfig.cache
+D:\FP\Aula\Aula_06-03\obj\Debug\net7.0\ref\Aula_06-03.dll

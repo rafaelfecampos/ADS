@@ -1,0 +1,45 @@
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\bin\Debug\net7.0\Exercício 6.exe
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\bin\Debug\net7.0\Exercício 6.deps.json
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\bin\Debug\net7.0\Exercício 6.runtimeconfig.json
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\bin\Debug\net7.0\Exercício 6.dll
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\bin\Debug\net7.0\Exercício 6.pdb
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.AssemblyInfo.cs
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.dll
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\refint\Exercício 6.dll
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.pdb
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\Exercício 6.genruntimeconfig.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 6\obj\Debug\net7.0\ref\Exercício 6.dll
+D:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.exe
+D:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.deps.json
+D:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.runtimeconfig.json
+D:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.dll
+D:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.pdb
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.csproj.AssemblyReference.cache
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.AssemblyInfoInputs.cache
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.AssemblyInfo.cs
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.csproj.CoreCompileInputs.cache
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.dll
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\refint\Exercício 6.dll
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.pdb
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.genruntimeconfig.cache
+D:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\ref\Exercício 6.dll
+E:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.exe
+E:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.deps.json
+E:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.runtimeconfig.json
+E:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.dll
+E:\FP\FP_02\slide48_exercicio6\bin\Debug\net7.0\Exercício 6.pdb
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.csproj.AssemblyReference.cache
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.AssemblyInfoInputs.cache
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.AssemblyInfo.cs
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.csproj.CoreCompileInputs.cache
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.dll
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\refint\Exercício 6.dll
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.pdb
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\Exercício 6.genruntimeconfig.cache
+E:\FP\FP_02\slide48_exercicio6\obj\Debug\net7.0\ref\Exercício 6.dll

@@ -1,0 +1,75 @@
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula\bin\Debug\net7.0\Aula.exe
+C:\Users\Aluno\Desktop\Aula\bin\Debug\net7.0\Aula.deps.json
+C:\Users\Aluno\Desktop\Aula\bin\Debug\net7.0\Aula.runtimeconfig.json
+C:\Users\Aluno\Desktop\Aula\bin\Debug\net7.0\Aula.dll
+C:\Users\Aluno\Desktop\Aula\bin\Debug\net7.0\Aula.pdb
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.dll
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\refint\Aula.dll
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.pdb
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Aula\obj\Debug\net7.0\ref\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\bin\Debug\net7.0\Aula.exe
+C:\Users\pc\Desktop\ADS\FP\Aula\bin\Debug\net7.0\Aula.deps.json
+C:\Users\pc\Desktop\ADS\FP\Aula\bin\Debug\net7.0\Aula.runtimeconfig.json
+C:\Users\pc\Desktop\ADS\FP\Aula\bin\Debug\net7.0\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\bin\Debug\net7.0\Aula.pdb
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\refint\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.pdb
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\obj\Debug\net7.0\ref\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\bin\Debug\net7.0\Aula.exe
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\bin\Debug\net7.0\Aula.deps.json
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\bin\Debug\net7.0\Aula.runtimeconfig.json
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\bin\Debug\net7.0\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\bin\Debug\net7.0\Aula.pdb
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\refint\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.pdb
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 1\obj\Debug\net7.0\ref\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\bin\Debug\net7.0\Aula.exe
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\bin\Debug\net7.0\Aula.deps.json
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\bin\Debug\net7.0\Aula.runtimeconfig.json
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\bin\Debug\net7.0\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\bin\Debug\net7.0\Aula.pdb
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\refint\Aula.dll
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.pdb
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+C:\Users\pc\Desktop\ADS\FP\Exercícios\Exercício 1\obj\Debug\net7.0\ref\Aula.dll
+D:\FP\FP_02\slide47_exercicio1\bin\Debug\net7.0\Aula.exe
+D:\FP\FP_02\slide47_exercicio1\bin\Debug\net7.0\Aula.deps.json
+D:\FP\FP_02\slide47_exercicio1\bin\Debug\net7.0\Aula.runtimeconfig.json
+D:\FP\FP_02\slide47_exercicio1\bin\Debug\net7.0\Aula.dll
+D:\FP\FP_02\slide47_exercicio1\bin\Debug\net7.0\Aula.pdb
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.csproj.AssemblyReference.cache
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.dll
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\refint\Aula.dll
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.pdb
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+D:\FP\FP_02\slide47_exercicio1\obj\Debug\net7.0\ref\Aula.dll

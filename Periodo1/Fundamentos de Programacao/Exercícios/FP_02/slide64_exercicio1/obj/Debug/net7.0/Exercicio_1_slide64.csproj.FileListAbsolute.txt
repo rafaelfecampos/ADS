@@ -1,0 +1,15 @@
+D:\FP\Exercícios\Exercicio_1_slide64\bin\Debug\net7.0\Exercicio_1_slide64.exe
+D:\FP\Exercícios\Exercicio_1_slide64\bin\Debug\net7.0\Exercicio_1_slide64.deps.json
+D:\FP\Exercícios\Exercicio_1_slide64\bin\Debug\net7.0\Exercicio_1_slide64.runtimeconfig.json
+D:\FP\Exercícios\Exercicio_1_slide64\bin\Debug\net7.0\Exercicio_1_slide64.dll
+D:\FP\Exercícios\Exercicio_1_slide64\bin\Debug\net7.0\Exercicio_1_slide64.pdb
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.csproj.AssemblyReference.cache
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.AssemblyInfoInputs.cache
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.AssemblyInfo.cs
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.csproj.CoreCompileInputs.cache
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.dll
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\refint\Exercicio_1_slide64.dll
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.pdb
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\Exercicio_1_slide64.genruntimeconfig.cache
+D:\FP\Exercícios\Exercicio_1_slide64\obj\Debug\net7.0\ref\Exercicio_1_slide64.dll

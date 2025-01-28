@@ -1,0 +1,15 @@
+D:\Rafael\FP\Vetor\Exercicio 7\bin\Debug\net7.0\Exercicio 7.exe
+D:\Rafael\FP\Vetor\Exercicio 7\bin\Debug\net7.0\Exercicio 7.deps.json
+D:\Rafael\FP\Vetor\Exercicio 7\bin\Debug\net7.0\Exercicio 7.runtimeconfig.json
+D:\Rafael\FP\Vetor\Exercicio 7\bin\Debug\net7.0\Exercicio 7.dll
+D:\Rafael\FP\Vetor\Exercicio 7\bin\Debug\net7.0\Exercicio 7.pdb
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.csproj.AssemblyReference.cache
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.AssemblyInfoInputs.cache
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.AssemblyInfo.cs
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.dll
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\refint\Exercicio 7.dll
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.pdb
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\Exercicio 7.genruntimeconfig.cache
+D:\Rafael\FP\Vetor\Exercicio 7\obj\Debug\net7.0\ref\Exercicio 7.dll

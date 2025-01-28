@@ -1,0 +1,15 @@
+D:\Rafael\FP\Classes\Exercicio 10\bin\Debug\net7.0\Exercicio 10.exe
+D:\Rafael\FP\Classes\Exercicio 10\bin\Debug\net7.0\Exercicio 10.deps.json
+D:\Rafael\FP\Classes\Exercicio 10\bin\Debug\net7.0\Exercicio 10.runtimeconfig.json
+D:\Rafael\FP\Classes\Exercicio 10\bin\Debug\net7.0\Exercicio 10.dll
+D:\Rafael\FP\Classes\Exercicio 10\bin\Debug\net7.0\Exercicio 10.pdb
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.csproj.AssemblyReference.cache
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.AssemblyInfoInputs.cache
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.AssemblyInfo.cs
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.dll
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\refint\Exercicio 10.dll
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.pdb
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\Exercicio 10.genruntimeconfig.cache
+D:\Rafael\FP\Classes\Exercicio 10\obj\Debug\net7.0\ref\Exercicio 10.dll

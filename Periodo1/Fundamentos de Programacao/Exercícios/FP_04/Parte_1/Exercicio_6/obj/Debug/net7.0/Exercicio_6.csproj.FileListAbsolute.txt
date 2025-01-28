@@ -1,0 +1,15 @@
+D:\FP\FP_04\Exercicio_6\bin\Debug\net7.0\Exercicio_6.exe
+D:\FP\FP_04\Exercicio_6\bin\Debug\net7.0\Exercicio_6.deps.json
+D:\FP\FP_04\Exercicio_6\bin\Debug\net7.0\Exercicio_6.runtimeconfig.json
+D:\FP\FP_04\Exercicio_6\bin\Debug\net7.0\Exercicio_6.dll
+D:\FP\FP_04\Exercicio_6\bin\Debug\net7.0\Exercicio_6.pdb
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.csproj.AssemblyReference.cache
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.AssemblyInfoInputs.cache
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.AssemblyInfo.cs
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.csproj.CoreCompileInputs.cache
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.dll
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\refint\Exercicio_6.dll
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.pdb
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\Exercicio_6.genruntimeconfig.cache
+D:\FP\FP_04\Exercicio_6\obj\Debug\net7.0\ref\Exercicio_6.dll

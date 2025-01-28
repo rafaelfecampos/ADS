@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\bin\Debug\net7.0\Exercicio 6.exe
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\bin\Debug\net7.0\Exercicio 6.deps.json
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\bin\Debug\net7.0\Exercicio 6.runtimeconfig.json
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\bin\Debug\net7.0\Exercicio 6.dll
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\bin\Debug\net7.0\Exercicio 6.pdb
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.AssemblyInfo.cs
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.dll
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\refint\Exercicio 6.dll
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.pdb
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\Exercicio 6.genruntimeconfig.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Exercícios\Exercicio 6\obj\Debug\net7.0\ref\Exercicio 6.dll

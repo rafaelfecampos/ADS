@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\bin\Debug\net7.0\e2.exe
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\bin\Debug\net7.0\e2.deps.json
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\bin\Debug\net7.0\e2.runtimeconfig.json
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\bin\Debug\net7.0\e2.dll
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\bin\Debug\net7.0\e2.pdb
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.AssemblyInfo.cs
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.dll
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\refint\e2.dll
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.pdb
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\e2.genruntimeconfig.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e2\obj\Debug\net7.0\ref\e2.dll

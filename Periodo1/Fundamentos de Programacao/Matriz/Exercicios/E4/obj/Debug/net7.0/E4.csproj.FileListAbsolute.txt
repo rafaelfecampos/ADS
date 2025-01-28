@@ -1,0 +1,15 @@
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.csproj.AssemblyReference.cache
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.AssemblyInfoInputs.cache
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.AssemblyInfo.cs
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Matriz\Exercicios\E4\bin\Debug\net7.0\E4.exe
+D:\Rafael\FP\Matriz\Exercicios\E4\bin\Debug\net7.0\E4.deps.json
+D:\Rafael\FP\Matriz\Exercicios\E4\bin\Debug\net7.0\E4.runtimeconfig.json
+D:\Rafael\FP\Matriz\Exercicios\E4\bin\Debug\net7.0\E4.dll
+D:\Rafael\FP\Matriz\Exercicios\E4\bin\Debug\net7.0\E4.pdb
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.dll
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\refint\E4.dll
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.pdb
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\E4.genruntimeconfig.cache
+D:\Rafael\FP\Matriz\Exercicios\E4\obj\Debug\net7.0\ref\E4.dll

@@ -1,0 +1,15 @@
+D:\Rafael\FP\Classes\Aula\bin\Debug\net7.0\Aula.exe
+D:\Rafael\FP\Classes\Aula\bin\Debug\net7.0\Aula.deps.json
+D:\Rafael\FP\Classes\Aula\bin\Debug\net7.0\Aula.runtimeconfig.json
+D:\Rafael\FP\Classes\Aula\bin\Debug\net7.0\Aula.dll
+D:\Rafael\FP\Classes\Aula\bin\Debug\net7.0\Aula.pdb
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.csproj.AssemblyReference.cache
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.dll
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\refint\Aula.dll
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.pdb
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+D:\Rafael\FP\Classes\Aula\obj\Debug\net7.0\ref\Aula.dll

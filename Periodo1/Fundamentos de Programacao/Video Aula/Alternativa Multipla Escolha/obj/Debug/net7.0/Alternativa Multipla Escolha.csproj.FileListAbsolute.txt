@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\bin\Debug\net7.0\Alternativa Multipla Escolha.exe
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\bin\Debug\net7.0\Alternativa Multipla Escolha.deps.json
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\bin\Debug\net7.0\Alternativa Multipla Escolha.runtimeconfig.json
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\bin\Debug\net7.0\Alternativa Multipla Escolha.dll
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\bin\Debug\net7.0\Alternativa Multipla Escolha.pdb
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.AssemblyInfo.cs
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.dll
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\refint\Alternativa Multipla Escolha.dll
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.pdb
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\Alternativa Multipla Escolha.genruntimeconfig.cache
+C:\Users\pc\Documents\ADS\FP\Video Aula\Alternativa Multipla Escolha\obj\Debug\net7.0\ref\Alternativa Multipla Escolha.dll

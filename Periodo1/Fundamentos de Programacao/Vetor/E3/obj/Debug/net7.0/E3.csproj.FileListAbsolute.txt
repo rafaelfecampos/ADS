@@ -1,0 +1,15 @@
+D:\Rafael\FP\Vetor\E3\bin\Debug\net7.0\E3.exe
+D:\Rafael\FP\Vetor\E3\bin\Debug\net7.0\E3.deps.json
+D:\Rafael\FP\Vetor\E3\bin\Debug\net7.0\E3.runtimeconfig.json
+D:\Rafael\FP\Vetor\E3\bin\Debug\net7.0\E3.dll
+D:\Rafael\FP\Vetor\E3\bin\Debug\net7.0\E3.pdb
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.csproj.AssemblyReference.cache
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.AssemblyInfoInputs.cache
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.AssemblyInfo.cs
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.dll
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\refint\E3.dll
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.pdb
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\E3.genruntimeconfig.cache
+D:\Rafael\FP\Vetor\E3\obj\Debug\net7.0\ref\E3.dll

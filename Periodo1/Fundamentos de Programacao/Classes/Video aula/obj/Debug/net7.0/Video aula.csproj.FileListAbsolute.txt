@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\bin\Debug\net7.0\Video aula.exe
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\bin\Debug\net7.0\Video aula.deps.json
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\bin\Debug\net7.0\Video aula.runtimeconfig.json
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\bin\Debug\net7.0\Video aula.dll
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\bin\Debug\net7.0\Video aula.pdb
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.AssemblyInfo.cs
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.dll
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\refint\Video aula.dll
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.pdb
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\Video aula.genruntimeconfig.cache
+C:\Users\pc\Documents\ADS\FP\Classes\Video aula\obj\Debug\net7.0\ref\Video aula.dll

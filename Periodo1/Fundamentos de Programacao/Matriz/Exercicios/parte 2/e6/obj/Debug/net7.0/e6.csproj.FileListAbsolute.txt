@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\bin\Debug\net7.0\e6.exe
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\bin\Debug\net7.0\e6.deps.json
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\bin\Debug\net7.0\e6.runtimeconfig.json
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\bin\Debug\net7.0\e6.dll
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\bin\Debug\net7.0\e6.pdb
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.AssemblyInfo.cs
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.dll
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\refint\e6.dll
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.pdb
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\e6.genruntimeconfig.cache
+C:\Users\pc\Documents\ADS\FP\Matriz\Exercicios\parte 2\e6\obj\Debug\net7.0\ref\e6.dll

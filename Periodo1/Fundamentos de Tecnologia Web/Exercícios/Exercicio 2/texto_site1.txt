@@ -1,0 +1,14 @@
+Fundamentos de Tecnologia Web
+Esta disciplina serve como base para o desenvolvimento Web, trabalhando com HTML.
+OBJETIVOS:
+-Conhecer e saber usar os recursos da linguagem, -Explorar estratégias e conhecer ferramentas de desenvolvimento
+Atualmente, nós estamos na aula de introdução a internet e www.Formatação de Textos, hipertextos, cabeçalhos e cores
+Porém, ainda precisamos avançar para os próximos conteúdos.
+Assim, conseguiremos avançar bem para a revisão do primeiro trabalho.
+PROGRAMAÇÃO:
+-No curso de ADS vocês trabalharão com códigos tipo:
+public class Casa
+private double tamanho; private String endereco;
+public Casa construir public String obterEndereco;
+Miria da Silveira Coelho Correa
+2022/1-Fundamentos de Tecnologia Web-Instituto Vianna Junior

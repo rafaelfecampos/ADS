@@ -1,0 +1,15 @@
+D:\Rafael\FP\Revisão prova\bin\Debug\net7.0\Revisão prova.exe
+D:\Rafael\FP\Revisão prova\bin\Debug\net7.0\Revisão prova.deps.json
+D:\Rafael\FP\Revisão prova\bin\Debug\net7.0\Revisão prova.runtimeconfig.json
+D:\Rafael\FP\Revisão prova\bin\Debug\net7.0\Revisão prova.dll
+D:\Rafael\FP\Revisão prova\bin\Debug\net7.0\Revisão prova.pdb
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.csproj.AssemblyReference.cache
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.AssemblyInfoInputs.cache
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.AssemblyInfo.cs
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.csproj.CoreCompileInputs.cache
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.dll
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\refint\Revisão prova.dll
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.pdb
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\Revisão prova.genruntimeconfig.cache
+D:\Rafael\FP\Revisão prova\obj\Debug\net7.0\ref\Revisão prova.dll

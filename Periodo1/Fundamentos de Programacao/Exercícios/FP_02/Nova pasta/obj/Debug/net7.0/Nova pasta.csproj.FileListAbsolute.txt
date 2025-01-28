@@ -1,0 +1,15 @@
+D:\FP\FP_02\Nova pasta\bin\Debug\net7.0\Nova pasta.exe
+D:\FP\FP_02\Nova pasta\bin\Debug\net7.0\Nova pasta.deps.json
+D:\FP\FP_02\Nova pasta\bin\Debug\net7.0\Nova pasta.runtimeconfig.json
+D:\FP\FP_02\Nova pasta\bin\Debug\net7.0\Nova pasta.dll
+D:\FP\FP_02\Nova pasta\bin\Debug\net7.0\Nova pasta.pdb
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.AssemblyReference.cache
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfoInputs.cache
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.AssemblyInfo.cs
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.csproj.CoreCompileInputs.cache
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.dll
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\refint\Nova pasta.dll
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.pdb
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\Nova pasta.genruntimeconfig.cache
+D:\FP\FP_02\Nova pasta\obj\Debug\net7.0\ref\Nova pasta.dll

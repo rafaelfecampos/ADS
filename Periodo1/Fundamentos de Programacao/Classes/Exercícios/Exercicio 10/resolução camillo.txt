@@ -1,0 +1,89 @@
+(https://dontpad.com/camillo/fp)
+
+
+class Ingresso
+{
+    private string _atracao;
+    public string Atracao
+    {
+        get { return _atracao; }
+        set { _atracao = value; }
+    }
+    
+    private string _local;
+    public string Local
+    {
+        get { return _local; }
+        set { _local = value; }
+    }
+
+    private double _preco;
+    
+    public double Preco
+    {
+        get { return _preco; }
+        set { _preco = value; }
+    }
+}
+
+//--------------------
+
+using System;
+using System.Text;
+
+class Program
+{
+    static void LeIngressos(Ingresso[] ingressos)
+    {
+        for (int i = 0; i < ingressos.Length; i++)
+        {
+            ingressos[i] = new Ingresso();
+
+            Console.WriteLine("Ingresso {0} de {1}:", i + 1, ingressos.Length);
+
+            Console.Write("  Atração: ");
+            ingressos[i].Atracao = Console.ReadLine();
+
+            Console.Write("  Local: ");
+            ingressos[i].Local = Console.ReadLine();
+
+            Console.Write("  Preço: ");
+            ingressos[i].Preco = Convert.ToDouble(Console.ReadLine());
+        }
+    }
+
+    static void Main(string[] args)
+    {
+        Ingresso[] ingressos = new Ingresso[10];
+
+        LeIngressos(ingressos);
+
+        double precoMaisBarato = ingressos[0].Preco;
+        double precoMaisCaro = ingressos[0].Preco;
+
+        for (int i = 1; i < ingressos.Length; i++)
+        {
+            if (precoMaisBarato < ingressos[i].Preco)
+                precoMaisBarato = ingressos[i].Preco;
+
+            if (precoMaisCaro > ingressos[i].Preco)
+                precoMaisCaro = ingressos[i].Preco;
+        }
+
+        Console.WriteLine("Mais baratos:");
+
+        for (int i = 0; i < ingressos.Length; i++)
+        {
+            if (ingressos[i].Preco == precoMaisBarato)
+                Console.WriteLine("  Atração: {0}", ingressos[i].Atracao);
+        }
+
+        Console.WriteLine("Mais caros:");
+
+        for (int i = 0; i < ingressos.Length; i++)
+        {
+            if (ingressos[i].Preco == precoMaisCaro)
+                Console.WriteLine("  Atração: {0}", ingressos[i].Atracao);
+        }
+    }
+}

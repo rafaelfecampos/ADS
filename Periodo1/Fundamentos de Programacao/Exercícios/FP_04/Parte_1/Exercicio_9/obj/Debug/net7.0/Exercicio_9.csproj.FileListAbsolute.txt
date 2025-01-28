@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\bin\Debug\net7.0\Exercicio_9.exe
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\bin\Debug\net7.0\Exercicio_9.deps.json
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\bin\Debug\net7.0\Exercicio_9.runtimeconfig.json
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\bin\Debug\net7.0\Exercicio_9.dll
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\bin\Debug\net7.0\Exercicio_9.pdb
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.AssemblyInfo.cs
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.dll
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\refint\Exercicio_9.dll
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.pdb
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\Exercicio_9.genruntimeconfig.cache
+C:\Users\pc\Documents\ADS\FP\Exercícios\FP_04\Exercicio_9\obj\Debug\net7.0\ref\Exercicio_9.dll

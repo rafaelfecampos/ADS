@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\bin\Debug\net7.0\Exercício 3.exe
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\bin\Debug\net7.0\Exercício 3.deps.json
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\bin\Debug\net7.0\Exercício 3.runtimeconfig.json
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\bin\Debug\net7.0\Exercício 3.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\bin\Debug\net7.0\Exercício 3.pdb
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.AssemblyInfo.cs
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\refint\Exercício 3.dll
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.pdb
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\Exercício 3.genruntimeconfig.cache
+C:\Users\pc\Desktop\ADS\FP\Aula\Exercício 3\obj\Debug\net7.0\ref\Exercício 3.dll
+D:\FP\FP_02\slide47_exercicio3\bin\Debug\net7.0\Exercício 3.exe
+D:\FP\FP_02\slide47_exercicio3\bin\Debug\net7.0\Exercício 3.deps.json
+D:\FP\FP_02\slide47_exercicio3\bin\Debug\net7.0\Exercício 3.runtimeconfig.json
+D:\FP\FP_02\slide47_exercicio3\bin\Debug\net7.0\Exercício 3.dll
+D:\FP\FP_02\slide47_exercicio3\bin\Debug\net7.0\Exercício 3.pdb
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.csproj.AssemblyReference.cache
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.AssemblyInfoInputs.cache
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.AssemblyInfo.cs
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.csproj.CoreCompileInputs.cache
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.dll
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\refint\Exercício 3.dll
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.pdb
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\Exercício 3.genruntimeconfig.cache
+D:\FP\FP_02\slide47_exercicio3\obj\Debug\net7.0\ref\Exercício 3.dll
