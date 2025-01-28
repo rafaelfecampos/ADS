@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Corretor\ cadastrarCorretor()
+comment3.params=c
+comment3.target=Imovel\ cadastrarImovel(Corretor)
+comment4.params=
+comment4.target=java.lang.String\ menu()
+numComments=5

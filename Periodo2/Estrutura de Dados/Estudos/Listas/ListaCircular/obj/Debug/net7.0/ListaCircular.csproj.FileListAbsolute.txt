@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\bin\Debug\net7.0\ListaCircular.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\bin\Debug\net7.0\ListaCircular.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\bin\Debug\net7.0\ListaCircular.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\bin\Debug\net7.0\ListaCircular.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\bin\Debug\net7.0\ListaCircular.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\refint\ListaCircular.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ListaCircular.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaCircular\obj\Debug\net7.0\ref\ListaCircular.dll

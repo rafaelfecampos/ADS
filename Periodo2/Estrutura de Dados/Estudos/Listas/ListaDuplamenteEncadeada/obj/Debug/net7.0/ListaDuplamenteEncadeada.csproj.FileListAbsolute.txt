@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\bin\Debug\net7.0\ListaDuplamenteEncadeada.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\bin\Debug\net7.0\ListaDuplamenteEncadeada.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\bin\Debug\net7.0\ListaDuplamenteEncadeada.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\bin\Debug\net7.0\ListaDuplamenteEncadeada.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\bin\Debug\net7.0\ListaDuplamenteEncadeada.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\refint\ListaDuplamenteEncadeada.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ListaDuplamenteEncadeada.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaDuplamenteEncadeada\obj\Debug\net7.0\ref\ListaDuplamenteEncadeada.dll

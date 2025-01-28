@@ -1,0 +1,7 @@
+Pilha
+-Uma lista onde todas as inclusões e exclusões de nós são eitas em uma unica extremidade.
+-Métodos AdicionarNoInicio e RemoverNoInicio (topo da pilha seria o inicio da lista);
+
+Filas
+-Uma lista onde todas as inclusões são feitas em uma extremidade e todas as exclusões na outra extremidade.
+-Métodos RemoverNoInicio e AdicionarNoFim (sempre remove os elementos que chegaram primeiro na fila)

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImovelAntigo
+comment1.params=endereco\ preco\ comissaoEmPorcentagem\ desconto
+comment1.target=ImovelAntigo(java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getPrecoComDesconto()
+comment3.params=
+comment3.target=double\ getDescontoEmPorcentagem()
+comment4.params=descontoEmPorcentagem
+comment4.target=void\ setDescontoEmPorcentagem(double)
+comment5.params=
+comment5.target=double\ getComissaoEmDinheiro()
+numComments=6

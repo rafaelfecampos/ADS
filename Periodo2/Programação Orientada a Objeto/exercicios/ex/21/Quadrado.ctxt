@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Quadrado
+comment1.params=vUm\ vDois\ hUm\ hDois
+comment1.target=Quadrado(Linha,\ Linha,\ Linha,\ Linha)
+comment2.params=
+comment2.target=double\ calculaPerimetro()
+numComments=3

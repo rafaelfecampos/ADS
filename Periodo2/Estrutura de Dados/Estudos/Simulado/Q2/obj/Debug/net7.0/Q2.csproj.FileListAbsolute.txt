@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\bin\Debug\net7.0\Q2.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\bin\Debug\net7.0\Q2.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\bin\Debug\net7.0\Q2.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\bin\Debug\net7.0\Q2.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\bin\Debug\net7.0\Q2.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\refint\Q2.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\Q2.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Simulado\Q2\obj\Debug\net7.0\ref\Q2.dll

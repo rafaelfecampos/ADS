@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\bin\Debug\net7.0\Recursividade-Fibonacci.exe
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\bin\Debug\net7.0\Recursividade-Fibonacci.deps.json
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\bin\Debug\net7.0\Recursividade-Fibonacci.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\bin\Debug\net7.0\Recursividade-Fibonacci.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\bin\Debug\net7.0\Recursividade-Fibonacci.pdb
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\refint\Recursividade-Fibonacci.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.pdb
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\Recursividade-Fibonacci.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Fibonacci\obj\Debug\net7.0\ref\Recursividade-Fibonacci.dll

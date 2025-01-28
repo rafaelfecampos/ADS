@@ -1,0 +1,15 @@
+*{
+    margin: 1;
+    padding: 0;
+}
+.grid2{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 100px auto 50px;
+    grid-template-rows: 50px auto 200px;
+}
+
+p{
+    background-color: aqua;
+}

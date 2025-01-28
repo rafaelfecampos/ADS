@@ -1,0 +1,18 @@
+#divVerde{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    transition: width 1s;
+}
+#divAzul{
+    background-color:  blue;
+    width: 100px;
+    height: 100px;
+    transition: background-color 1s;
+}
+#divAzul:hover{
+    background-color: red;
+}
+#divVerde:hover{
+    width: 400px;
+}

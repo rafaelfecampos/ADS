@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\bin\Debug\net7.0\Recursividade-Busca.exe
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\bin\Debug\net7.0\Recursividade-Busca.deps.json
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\bin\Debug\net7.0\Recursividade-Busca.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\bin\Debug\net7.0\Recursividade-Busca.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\bin\Debug\net7.0\Recursividade-Busca.pdb
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\refint\Recursividade-Busca.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.pdb
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\Recursividade-Busca.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-Busca\obj\Debug\net7.0\ref\Recursividade-Busca.dll

@@ -1,0 +1,15 @@
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/bin/Debug/net7.0/Exemplo1
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/bin/Debug/net7.0/Exemplo1.deps.json
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/bin/Debug/net7.0/Exemplo1.runtimeconfig.json
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/bin/Debug/net7.0/Exemplo1.dll
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/bin/Debug/net7.0/Exemplo1.pdb
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.csproj.AssemblyReference.cache
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.GeneratedMSBuildEditorConfig.editorconfig
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.AssemblyInfoInputs.cache
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.AssemblyInfo.cs
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.csproj.CoreCompileInputs.cache
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.dll
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/refint/Exemplo1.dll
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.pdb
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/Exemplo1.genruntimeconfig.cache
+/home/professor/Documentos/Camillo/ED/Recursao/Exemplo1/obj/Debug/net7.0/ref/Exemplo1.dll

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Imovel
+comment1.params=endereco\ preco\ comissao
+comment1.target=Imovel(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=Imovel()
+comment3.params=
+comment3.target=java.lang.String\ getEndereco()
+comment4.params=endereco
+comment4.target=void\ setEndereco(java.lang.String)
+comment5.params=
+comment5.target=double\ getPreco()
+comment6.params=preco
+comment6.target=void\ setPreco(double)
+comment7.params=
+comment7.target=double\ getComissaoEmPorcentagem()
+comment8.params=comissaoEmPorcentagem
+comment8.target=void\ setComissaoEmPorcentagem(double)
+comment9.params=
+comment9.target=double\ getComissaoEmDinheiro()
+numComments=10

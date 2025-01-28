@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\bin\Debug\net7.0\Q6_Ordenacao.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\bin\Debug\net7.0\Q6_Ordenacao.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\bin\Debug\net7.0\Q6_Ordenacao.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\bin\Debug\net7.0\Q6_Ordenacao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\bin\Debug\net7.0\Q6_Ordenacao.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\refint\Q6_Ordenacao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\Q6_Ordenacao.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Exercicios\Q6_Ordenacao\obj\Debug\net7.0\ref\Q6_Ordenacao.dll

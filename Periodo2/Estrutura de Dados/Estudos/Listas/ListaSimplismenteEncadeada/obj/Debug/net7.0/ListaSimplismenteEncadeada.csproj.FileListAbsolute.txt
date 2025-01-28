@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\bin\Debug\net7.0\ListaSimplismenteEncadeada.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\bin\Debug\net7.0\ListaSimplismenteEncadeada.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\bin\Debug\net7.0\ListaSimplismenteEncadeada.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\bin\Debug\net7.0\ListaSimplismenteEncadeada.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\bin\Debug\net7.0\ListaSimplismenteEncadeada.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\refint\ListaSimplismenteEncadeada.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ListaSimplismenteEncadeada.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplismenteEncadeada\obj\Debug\net7.0\ref\ListaSimplismenteEncadeada.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\bin\Debug\net7.0\Recursividade-OrdemCrescente.exe
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\bin\Debug\net7.0\Recursividade-OrdemCrescente.deps.json
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\bin\Debug\net7.0\Recursividade-OrdemCrescente.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\bin\Debug\net7.0\Recursividade-OrdemCrescente.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\bin\Debug\net7.0\Recursividade-OrdemCrescente.pdb
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\refint\Recursividade-OrdemCrescente.dll
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.pdb
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\Recursividade-OrdemCrescente.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\Periodo2\EDD\Estudos\Recursividade-OrdemCrescente\obj\Debug\net7.0\ref\Recursividade-OrdemCrescente.dll

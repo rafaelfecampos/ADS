@@ -1,0 +1,12 @@
+PALETA DE CORES
+A paleta de cores escolhida foi a que engloba as cores do vermelho ao azul.
+Pois o site proposto é destinado a explicar para quem nao conhece sobre o que é o anime/desenho One Piece, dando uma breve introdução sobre o que é e os personagens.
+Azul demonstra calma, confiança, serenidade. Para que as pessoas consigam se sentir uma confiança e despertar o interesse para assistir o anime, além de fazer uma alusão a cor do mar, com o barco posicionado no canto inferior direito.
+Vermelho simboliza aventura, energia, amor. Fazendo com que fique intrísseco que é uma história sobre aventuras em alto mar.
+
+TIPOGRAFIA
+Escolhi a fonte Nashville por se parecer com cartazes de procurados famosos em filmes de velho oeste e também em One Piece, onde os piratas famosos têm recompensas por suas cabeças. Utilizei esta fonte nos títulos.
+Escolhi a fonte AnimeAceBB pois lembra a fonte que é utilizada nos mangás e nas histórias em quadrinhos japonesas, uma vez que One Piece é um famoso anime e mangá
+
+GESTALT
+Tentei deixar o site bem linear e simétrico, tanto no desktop e no mobile, para deixar o fluxo de leitura bem definido para o usuário. Além disso o site contém uma logo no início, acima do menu, e uma imagem no fim que indica, respectivamente, o inicio e o fim do site.

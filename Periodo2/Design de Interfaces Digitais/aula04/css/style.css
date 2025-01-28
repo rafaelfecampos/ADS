@@ -1,0 +1,21 @@
+.titulo {
+    color: #0000FF;
+    background-color: pink;
+}
+
+#paragrafo1 {
+    color: rgb(5 102 26);
+}
+.fundo-azul{
+    background-color: aquamarine;
+}
+.fundo-textura{
+    background-image: url("../images/metal-texture.jpg");
+}
+body{
+    background-image: url("../images/Botafogo_de_Futebol_e_Regatas_logo.svg.png");
+    background-repeat: no-repeat ;
+    background-attachment:fixed;
+    background-position: center;
+    background-size:contain;
+}

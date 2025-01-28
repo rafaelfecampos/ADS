@@ -1,0 +1,80 @@
+/*
+Questão 1-
+O aluno deverá utilizar as técnicas aprendidas para replicar o layout modelo (arquivo modelo.jpg) de
+acordo com as cores, tipografias e espaçamentos apresentados.
+
+OBS: As cores devem ser as mais próximas possíveis das apresentadas no modelo, não necessariamente exatas.
+*/
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(240, 229, 222);
+    padding-bottom: 100px;
+    color: rgb(127, 127, 127);
+    height: 100%;
+    width: 100%;
+    font-family: Arial;
+    font-weight: 500;
+    letter-spacing: 1px;
+    word-spacing: 15px;
+}
+.center{
+    text-align: center;
+}
+.cinza{
+    background-color: rgb(163,163,163);
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+a{
+    text-decoration:none;
+    color: rgb(127, 127, 127);
+    font-family: Abyssinica;
+    
+}
+h1{
+    font-size: 2.5em;
+    margin: 0px auto 0px auto;
+    font-family: Abyssinica;
+    
+}
+main{
+    text-align: justify;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h2{
+    font-size: 2.2rem;
+    font-family: Abyssinica;
+    margin: 0px auto 0px auto;
+}
+p{
+    margin: 10px auto 10px auto;
+}
+footer{
+    margin-top: 50px;
+    height: 100%;
+    width: 100%;
+}
+nav{
+    margin: 0px 0px 0px 0px;
+}
+header{
+    width: 100%;
+    
+}
+header h1{
+    padding: 10px 10px 50px 10px;
+}
+.texto{
+    color: rgb(65,65,65);
+}
+@font-face {
+    font-family: Abyssinica;
+    src: url(../fonts/Abyssinica_SIL/AbyssinicaSIL-Regular.ttf);
+}

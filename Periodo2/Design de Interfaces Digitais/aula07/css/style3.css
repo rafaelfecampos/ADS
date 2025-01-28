@@ -1,0 +1,20 @@
+*{
+    margin: 1;
+    padding: 0;
+}
+.grid3{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: repeat(2, 1fr) repeat(2, 2fr) 1fr;
+    grid-template-areas:
+    " "
+    " "
+    " "
+    ;
+}
+
+p{
+    background-color: aqua;
+}

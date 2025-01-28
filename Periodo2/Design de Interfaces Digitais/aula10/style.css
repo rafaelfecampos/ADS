@@ -1,0 +1,22 @@
+p{
+    color:red;
+    font-size: 3rem;
+}
+body{
+    background-color: white;
+}
+
+@media screen and (min-width: 600px) {
+    p{
+        color:blue;
+    }
+}
+@media screen and (min-width: 800px) {
+    p{
+        color:purple;
+    }
+    body{
+        background-color: lightblue;
+    }
+}
+

@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Pridi;
+    src: url(./assets/fonts/Pridi/Pridi-Bold.ttf);
+}
+@font-face {
+    font-family: Inconsolata;
+    src: url(./assets/fonts/Inconsolata/Inconsolata-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: Sarabun;
+    src: url(./assets/fonts/Sarabun/Sarabun-Bold.ttf);
+}
+#cabecalho h1{
+    font-family: 'Pridi';
+    font-style: italic;
+    color: yellow;
+}
+#cabecalho h2{
+    font-family: 'Sarabun';
+}
+#corpo p{
+    font-family: 'Inconsolata';
+}
+body{
+    background-color: purple;
+    color: yellow
+}

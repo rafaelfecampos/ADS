@@ -1,0 +1,22 @@
+Teoria das cores
+-Vermelho: cor mais quente/ incentiva ações e confiança/ intensa / apaixonante / urgência
+-Amarelo: cor mais brilhante e quente / energizante / otimismo e esperança / concentração e atenção
+-Azul: cor fira / calma, segurança e confiança / criatividade e espirutualidade / produtividade
+-Laranja: cor quente / excitação e entusiasmo / ativo, alegre e sociável / mais calma que o vermelho
+-Verde: saúde e tranquilidade / natureza / estabilidade e positividade / efeito calmante / dinehiro
+-Roxo: riqueza, sucesso e sabedoria / cor calmante / intuição e espiritualidade / criatividade e resolução de problemas
+
+-Cores complementares: opostas no circulo cromático
+-Cores análogas: três cores que estão lado a lado, uma das três é predominante
+-Cores triádicas: tres cores equidistantes no circulo, oferece um forte contraste visual.
+-Monocromia: cor única, porém tom, constraste e saturação diferente;
+
+
+Interface e Composição
+-Equilíbrio: simétrico ou assimétrico
+-Proporção: serve para atribuir importância a elementos na página
+-Ritmo: criado através da repetição de cores, formas, texturas e elementos semelhantes. Ajuda a manter a consistência do design
+Layout muito consistente no ritmo pode deixar os visistantes desorientados, porém muita variação no ritmo gera caos. Encontrar o equilibrio nas repetições e proporções da página é primordial.
+-Unidade: interação de diferentes elementos da composição, uma página com interações boas traz sensação de unidade
+-Ênfase: atrai a atenção do observador a um elemento em particular, pode ser feito por meio do posicionamento, continuidade, isolamento ou contraste
+

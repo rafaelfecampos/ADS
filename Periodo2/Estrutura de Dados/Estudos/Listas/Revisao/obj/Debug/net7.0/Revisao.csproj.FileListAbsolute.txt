@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\bin\Debug\net7.0\Revisao.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\bin\Debug\net7.0\Revisao.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\bin\Debug\net7.0\Revisao.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\bin\Debug\net7.0\Revisao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\bin\Debug\net7.0\Revisao.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\refint\Revisao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\Revisao.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\Revisao\obj\Debug\net7.0\ref\Revisao.dll

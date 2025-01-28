@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\bin\Debug\net7.0\Selecao.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\bin\Debug\net7.0\Selecao.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\bin\Debug\net7.0\Selecao.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\bin\Debug\net7.0\Selecao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\bin\Debug\net7.0\Selecao.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\refint\Selecao.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\Selecao.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Selecao\obj\Debug\net7.0\ref\Selecao.dll

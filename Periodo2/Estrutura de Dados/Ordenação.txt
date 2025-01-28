@@ -1,0 +1,65 @@
+bubblesort
+-varre todo o vetor até o fim todas as vezes
+-o fim é atualizado com a posição da ultima troca
+-while/for ou for/for
+
+	bool troca = true;
+        int pos = -1, fim = vetor.Length - 1;
+        while(troca)
+        {
+            troca = false;
+            for(int i = 0; i<fim;i++)
+            {
+                if(vetor[i]>vetor[i+1])
+                {
+                    Troca(vetor, i, i+1);
+                    troca=true;
+                    pos = i;
+                }
+            }
+            fim = pos;
+        }
+
+
+InsertSort
+-é definida uma chave que serve de parâmetro de comparação
+-for/while
+-varre o vetor da posição anterior ao valor da chave até onde a comparação com a chave se torne false
+
+	int chave = 0;
+        for (int i = 1; i < vetor.Length; i++)
+        {
+            chave = vetor[i];
+            int j = i-1;
+            while(j>=0 && vetor[j]>chave)
+            {
+                vetor[j+1]=vetor[j];
+                j--;
+            }
+            vetor[j+1]=chave;
+        }
+
+
+SelectSort
+-inicia o indMenor com o indice do primeiro valor
+-verifica se há algum valor menor que o da posição do indMenor
+-se encontrar, atualizar o valor do indMenor pela posição do valor menor
+-após varrer todo o vetor, realizar a troca do valor na posição inicial pelo indMenor
+-for/for
+
+
+        for (int i = 0; i < vetor.Length; i++)
+        {
+            int indMenor = i;
+            for (int j = i + 1; j < vetor.Length; j++)
+            {
+                if (vetor[indMenor] > vetor[j])
+                {
+                    indMenor = j;
+                }
+            }
+            if (indMenor != i)
+            {
+                Troca(vetor, i, indMenor);
+            }
+        }

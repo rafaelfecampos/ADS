@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\bin\Debug\net7.0\Insercao_Direta.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\bin\Debug\net7.0\Insercao_Direta.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\bin\Debug\net7.0\Insercao_Direta.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\bin\Debug\net7.0\Insercao_Direta.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\bin\Debug\net7.0\Insercao_Direta.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\refint\Insercao_Direta.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\Insercao_Direta.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Ordenacao\Insercao_Direta\obj\Debug\net7.0\ref\Insercao_Direta.dll

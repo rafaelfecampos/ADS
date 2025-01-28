@@ -1,0 +1,15 @@
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/bin/Debug/net7.0/Aula08-08
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/bin/Debug/net7.0/Aula08-08.deps.json
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/bin/Debug/net7.0/Aula08-08.runtimeconfig.json
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/bin/Debug/net7.0/Aula08-08.dll
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/bin/Debug/net7.0/Aula08-08.pdb
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.csproj.AssemblyReference.cache
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.AssemblyInfoInputs.cache
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.AssemblyInfo.cs
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.dll
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/refint/Aula08-08.dll
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.pdb
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/Aula08-08.genruntimeconfig.cache
+/home/aluno/Documentos/Rafael/EDD/Aula08-08/obj/Debug/net7.0/ref/Aula08-08.dll

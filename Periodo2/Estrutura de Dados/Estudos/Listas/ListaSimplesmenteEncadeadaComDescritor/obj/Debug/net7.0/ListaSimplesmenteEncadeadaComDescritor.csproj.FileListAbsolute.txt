@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\bin\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\bin\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\bin\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\bin\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\bin\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\refint\ListaSimplesmenteEncadeadaComDescritor.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ListaSimplesmenteEncadeadaComDescritor.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Estudos\Listas\ListaSimplesmenteEncadeadaComDescritor\obj\Debug\net7.0\ref\ListaSimplesmenteEncadeadaComDescritor.dll

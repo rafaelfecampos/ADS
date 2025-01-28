@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Professor
+comment1.params=f\ ap\ ae
+comment1.target=Professor(java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=double\ valorAulasPresenciais()
+comment11.params=
+comment11.target=double\ calculaSalario()
+comment2.params=
+comment2.target=Professor()
+comment3.params=f
+comment3.target=void\ setFormacao(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFormacao()
+comment5.params=ap
+comment5.target=void\ setAulasPresenciais(int)
+comment6.params=
+comment6.target=int\ getAulasPresenciais()
+comment7.params=ae
+comment7.target=void\ setAulasEad(int)
+comment8.params=
+comment8.target=int\ getAulasEad()
+comment9.params=
+comment9.target=double\ valorAulasEad()
+numComments=12

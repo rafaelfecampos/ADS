@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\bin\Debug\net7.0\aps.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\bin\Debug\net7.0\aps.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\bin\Debug\net7.0\aps.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\bin\Debug\net7.0\aps.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\bin\Debug\net7.0\aps.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\refint\aps.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\aps.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\aps\obj\Debug\net7.0\ref\aps.dll

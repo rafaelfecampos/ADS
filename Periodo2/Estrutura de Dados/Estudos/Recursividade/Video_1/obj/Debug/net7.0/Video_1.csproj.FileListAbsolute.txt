@@ -1,0 +1,15 @@
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/bin/Debug/net7.0/Video_1
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/bin/Debug/net7.0/Video_1.deps.json
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/bin/Debug/net7.0/Video_1.runtimeconfig.json
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/bin/Debug/net7.0/Video_1.dll
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/bin/Debug/net7.0/Video_1.pdb
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.csproj.AssemblyReference.cache
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.AssemblyInfoInputs.cache
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.AssemblyInfo.cs
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.dll
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/refint/Video_1.dll
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.pdb
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/Video_1.genruntimeconfig.cache
+/home/aluno/Documentos/Rafael/EDD/Estudos/Video_1/obj/Debug/net7.0/ref/Video_1.dll

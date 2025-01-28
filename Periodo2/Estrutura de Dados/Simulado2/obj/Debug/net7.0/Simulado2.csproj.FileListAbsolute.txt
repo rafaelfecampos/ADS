@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\bin\Debug\net7.0\Simulado2.exe
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\bin\Debug\net7.0\Simulado2.deps.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\bin\Debug\net7.0\Simulado2.runtimeconfig.json
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\bin\Debug\net7.0\Simulado2.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\bin\Debug\net7.0\Simulado2.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.AssemblyInfo.cs
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\refint\Simulado2.dll
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.pdb
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\Simulado2.genruntimeconfig.cache
+C:\Users\Usuário\Documents\ADS\github\EDD\Simulado2\obj\Debug\net7.0\ref\Simulado2.dll
