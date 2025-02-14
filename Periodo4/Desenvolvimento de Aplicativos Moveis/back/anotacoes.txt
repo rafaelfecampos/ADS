@@ -1,0 +1,15 @@
+npm i -g ngrok
+
+scp -r -i Key_vianna_2024.pem /home/aluno/Documentos/Daves/Mobile/code/aulas/back/ ubuntu@34.200.203.33:/home/ubuntu/
+
+
+SErvidor
+
+sudo apt install npm
+
+npm i
+
+npm run start
+
+
+/home/aluno/Área de Trabalho/back

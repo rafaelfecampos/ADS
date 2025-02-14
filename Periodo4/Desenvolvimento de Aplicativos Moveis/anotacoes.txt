@@ -1,0 +1,5 @@
+1-Baixar o aplicativo "Expo go" para rodar os aplicativos mobile
+2-ativar o modo desenvolvedor -> ativar Depuração USB
+3-instalar android no pc
+4-npm run start para rodar
+5-scannear qr com Expo
