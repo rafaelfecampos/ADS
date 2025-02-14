@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes" ?>
+
+<produtos>
+    <produto>
+        <fabricante>
+            <nome>Jose Factory</nome>
+            <endereco>Juiz de Fora - MG</endereco>
+        </fabricante>
+        <nomeProduto>Cadeira</nomeProduto>
+        <precoUnitario>125,99 reais </precoUnitario>
+        <quantidade>6</quantidade>
+        <categoria>A</categoria>
+    </produto>
+    <produto>
+        <fabricante>
+            <nome>Jose Factory</nome>
+            <endereco>Juiz de Fora - MG</endereco>
+        </fabricante>
+        <nomeProduto>Mesa</nomeProduto>
+        <precoUnitario>350,99 reais </precoUnitario>
+        <quantidade>1</quantidade>
+        <categoria>B</categoria>
+    </produto>
+    <produto>
+        <fabricante>
+            <nome>Carlinhos Tapecaria</nome>
+            <endereco>Xique-xique - BA</endereco>
+        </fabricante>
+        <nomeProduto>Tapete persa</nomeProduto>
+        <precoUnitario>1.598.000,99 reais </precoUnitario>
+        <quantidade>1</quantidade>
+        <categoria>ZZ</categoria>
+    </produto>
+</produtos>

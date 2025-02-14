@@ -1,0 +1,16 @@
+{
+    "type":"object",
+    "properties":{
+        "fabricante":{
+            "type":"object",
+            "properties":{
+                "nome":{"type":"string"},
+                "endereco":{"type":"string"}
+            }
+        },
+        "nomeProduto":{"type":"string"},
+        "precoUnitario":{"type":"number"},
+        "quantidade":{"type":"integer"},
+        "categoria":{"type":"string"}
+    }
+}

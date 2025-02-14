@@ -1,0 +1,34 @@
+{
+    "produtos":[
+        {
+            "fabricante":{
+                "nome": "Jose Factory",
+                "endereco":"Juiz de Fora - MG"
+            },
+            "nomeProduto":"Cadeira",
+            "precoUnitario":125.99,
+            "quantidade":6,
+            "categoria":"A"            
+        },
+        {
+            "fabricante":{
+                "nome": "Jose Factory",
+                "endereco":"Juiz de Fora - MG"
+            },
+            "nomeProduto":"Mesa",
+            "precoUnitario":350.99,
+            "quantidade":1,
+            "categoria":"B"            
+        },
+        {
+            "fabricante":{
+                "nome": "Carlinhos Tapecaria",
+                "endereco":"Xique-xique - BA"
+            },
+            "nomeProduto":"Tapete persa",
+            "precoUnitario":1598000.99,
+            "quantidade":1,
+            "categoria":"ZZ"            
+        }
+    ]
+}
