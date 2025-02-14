@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d952dce6-5879-44dc-8b4b-8dad6ddd8fc3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/src/main/java/br/edu/vianna/game/controller/MasterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/src/main/java/br/edu/vianna/game/controller/MasterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/src/main/java/br/edu/vianna/game/controller/actions/impl/HomeAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/src/main/java/br/edu/vianna/game/controller/actions/impl/HomeAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/src/main/java/br/edu/vianna/game/model/dao/impl/JogosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/src/main/java/br/edu/vianna/game/model/dao/impl/JogosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/src/main/webapp/pages/homeLogado.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/src/main/webapp/pages/homeLogado.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/src/main/webapp/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/src/main/webapp/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/src/main/webapp/template.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/src/main/webapp/template.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/MasterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/MasterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/ICommanderAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/ICommanderAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallErrorPageAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallErrorPageAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallSaveUserAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallSaveUserAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallUserViewAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallUserViewAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallViewAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/CallViewAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/HomeAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/HomeAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/SairAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/SairAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/TestaBancoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/TestaBancoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/VerificaLoginAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/controller/actions/impl/VerificaLoginAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Aposta.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Aposta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Aposta_.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Aposta_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/ETipoResultado.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/ETipoResultado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/ETipoUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/ETipoUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Jogo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Jogo_.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Jogo_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Time_.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Time_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/User_.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/User_.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/dao/GenericsDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/dao/GenericsDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/dao/impl/JogosDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/dao/impl/JogosDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/dao/impl/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/model/dao/impl/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/util/UtilService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/classes/br/edu/vianna/game/util/UtilService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/Aposta_.java" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/Aposta_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/Jogo_.java" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/Jogo_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/Time_.java" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/Time_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/User_.java" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/generated-sources/annotations/br/edu/vianna/game/model/User_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../viannabet-main/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../viannabet-main/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2f6t4vdkfUbVo2jL9bMJ6dSwXmH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuário/OneDrive/Documentos/ADS/Periodo3/POOA/exercicios/exercicio1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.edu.vianna.gym.controller.actions.impl" />
+      <recent name="br.edu.vianna.gym.model.dao.impl" />
+      <recent name="br.edu.vianna.gym.model" />
+      <recent name="br.edu.vianna.gym.model.enums" />
+      <recent name="br.edu.vianna.gym.model.enum" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\trabalho_academia\Academia\src\main\webapp\pages" />
+      <recent name="C:\Users\Usuário\OneDrive\Documentos\ADS\Periodo3\POOA\Academia\src\main\webapp\style\sources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.edu.vianna.gym" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Academia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Academia" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d952dce6-5879-44dc-8b4b-8dad6ddd8fc3" name="Changes" comment="" />
+      <created>1713133187729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713133187729</updated>
+      <workItem from="1713133188764" duration="3450000" />
+      <workItem from="1713136648459" duration="4418000" />
+      <workItem from="1713296300864" duration="2371000" />
+      <workItem from="1713461909440" duration="5127000" />
+      <workItem from="1713471014042" duration="3763000" />
+      <workItem from="1713880061181" duration="53000" />
+      <workItem from="1713893895018" duration="615000" />
+      <workItem from="1715022479569" duration="506000" />
+      <workItem from="1715023022500" duration="4703000" />
+      <workItem from="1715084257016" duration="21372000" />
+      <workItem from="1715173849651" duration="21069000" />
+      <workItem from="1715259546348" duration="7024000" />
+      <workItem from="1715275293604" duration="19926000" />
+      <workItem from="1715361013295" duration="11066000" />
+      <workItem from="1715448697518" duration="1906000" />
+      <workItem from="1715451528825" duration="1064000" />
+      <workItem from="1715513887070" duration="85000" />
+      <workItem from="1715547845109" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
